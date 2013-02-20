@@ -1,0 +1,21 @@
+/* 
+    Document   : style
+    Created on : Feb 19, 2013, 6:06:48 PM
+    Author     : atprestemon
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    list-tyle-type: none;
+    display: inline;
+}
+
